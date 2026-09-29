@@ -1,1 +1,1 @@
-# Manuel-AI
+## Plateforme IA conversationnelle
